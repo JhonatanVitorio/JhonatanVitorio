@@ -1,43 +1,75 @@
-<h1 align="center">Jhonatan Vitorio</h1>
+<h1 align="center">👋 Olá, eu sou o Jhonatan Vitorio</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estrelas-0-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seguidores-2-brightgreen?style=for-the-badge" />
-</p>
-
-### 🎓 Desenvolvedor Full-Stack
-
-Olá! Me chamo Jhonatan e sou Desenvolvedor Full Stack.
-Sou apaixonado pelo mundo da programação, principalmente nas áreas de Back-End e Front-End.
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi. Minhas principais tecnologias são: HTML, CSS, JavaScript, Node.js, Python, TypeScript e Java (básico).
-Gosto de criar projetos do zero e automatizar processos. Venho aplicando esses aprendizados desenvolvendo dois sites para projetos próprios e um site completo com formulário automatizado e integração com WhatsApp para uma empresa de pequeno porte. Estou sempre buscando mais conhecimento e novos desafios na área da programação!
+<p align="center">Desenvolvedor Full Stack | Foco em soluções web e automações</p>
 
 ---
 
-### 🛠️ Linguagens e Tecnologias
+### 🚀 Sobre mim
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+Sou desenvolvedor Full Stack com foco em criar aplicações web modernas, interfaces funcionais e sistemas completos com APIs integradas.  
+Apaixonado por tecnologia, sempre busco escrever código limpo, organizado e escalável.
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na Universidade Anhembi Morumbi  
+e desenvolvo projetos reais envolvendo sites, automações e sistemas internos para pequenas empresas.
+
+---
+
+### 🧰 Stacks & Tecnologias
+
+#### **Front-End**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+</p>
+
+#### **Back-End**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+</p>
+
+#### **Outros**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 </p>
 
 ---
 
-### 📈 Tecnologias usadas
+### ⚙️ O que eu tenho construído
 
-```text
-Python             █████████████████░░░░░░░   73.45%
-HTML               ██████████████████████░░   92.59%
-JavaScript         ██████████████████████░░   92.03%
-CSS                ██████████████████████░░   92.72%
-GIT                █████████████████░░░░░░░   72.72%
-nodeJs             ████████████████░░░░░░░░   69.52%
-TypeScript         ████████████░░░░░░░░░░░░   52.72%
-Java               ██████████░░░░░░░░░░░░░░   49,33
+- 🌐 Sites institucionais completos com formulário e integração ao WhatsApp
+- 🧾 Sistemas internos para negócios locais (gestão e automação)
+- 🔗 APIs REST com autenticação, CRUD completo e PostgreSQL
+- 🧠 Projetos experimentais para estudo de arquitetura e boas práticas
+
+---
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jhonatanvitorio&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanvitorio&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 📬 Contato
+<p>
+  <a href="https://www.linkedin.com/in/jhonatanvitorio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/jhonatanvitorio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
